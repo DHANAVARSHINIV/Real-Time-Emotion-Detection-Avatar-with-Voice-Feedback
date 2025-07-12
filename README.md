@@ -4,7 +4,12 @@
 
 This project uses **OpenCV**, **MediaPipe**, **NumPy**, and **pyttsx3** to detect facial emotions in real-time from a webcam feed. It overlays an animated face mesh with emotion labels and gives spoken feedback about the detected emotion.
 
----
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/1xhsJ2bMboYSmpmUwsT9CIMvLCGDUkL3x/0.jpg)](https://drive.google.com/file/d/1xhsJ2bMboYSmpmUwsT9CIMvLCGDUkL3x/view?usp=sharing)
+
+Click the image above to watch the demo on Google
+
 
 ### Features
 
